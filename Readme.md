@@ -1,15 +1,15 @@
-# 🥚🍌 Anda Kera
+#  Anda Kera
 
 Anda Kera is a fun twist on the classic Tic-Tac-Toe game, where instead of **X** and **O**, you play with **Anda (Egg)** and **Kera (Banana)**!
 
-## 🚀 Features
+## Features
 
 - Simple and interactive Tic-Tac-Toe game
 - Unique Anda (🥚) and Kera (🍌) icons instead of traditional X and O
 - **Reset button** to restart the game anytime
 - Built purely using **HTML, CSS, and JavaScript**
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **HTML**
 - **CSS**
@@ -23,6 +23,9 @@ Anda Kera is a fun twist on the classic Tic-Tac-Toe game, where instead of **X**
 4. Click the **Reset** button to start a new game.
 5. Enjoy playing with your friends!
 
-## 📂 Installation
+##  Installation
 
 No installation required. 
+
+# visit site
+ https://siddhartha-thapa.github.io/anda-kera/
