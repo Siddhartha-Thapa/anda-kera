@@ -91,7 +91,8 @@ const resetgame = () => {
     counter++;
     if(counter === 9)
     {
-        msg.innerText = `ANDA and KERA DRAW happen`;
+        msg.innerText = `DRAW `;
         msgcontainer.classList.remove("hide");
     }
+
  }
