@@ -28,4 +28,5 @@ Anda Kera is a fun twist on the classic Tic-Tac-Toe game, where instead of **X**
 No installation required. 
 
 # visit site
- https://siddhartha-thapa.github.io/anda-kera/
+https://andakera.netlify.app/
+
